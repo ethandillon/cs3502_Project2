@@ -3,9 +3,9 @@ CPU scheduling algorithm comparison
 
 Simulates and compares Shortest Remaining Time First (SRTF) and  Multi-Level Feedback Queue (MLFQ) CPU scheduling algorithms.
 
-## Make sure you have Python 3 downloaded
 
 ## How to Run
+Make sure you have Python 3 downloaded
 
 1.  Save the main.py file as a Python file (e.g., `scheduler.py`).
 2.  Open a terminal in the file's directory.
