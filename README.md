@@ -1,4 +1,4 @@
-# CS3502 - Operating Systems - Ethan Dillon
+# CS3502 | Operating Systems | Ethan Dillon
 CPU scheduling algorithm comparison
 
 Simulates and compares Shortest Remaining Time First (SRTF) and  Multi-Level Feedback Queue (MLFQ) CPU scheduling algorithms.
